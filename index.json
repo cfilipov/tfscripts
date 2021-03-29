@@ -1,7 +1,7 @@
 [
     {
-        "name": "addToTableIfMissing",
-        "description": "Add's a key/value pair to a table if and only if it's missing.",
+        "name": "cheerio",
+        "description": "Fast, flexible, and lean implementation of core jQuery designed specifically for the server.",
         "versions": [
             {
                 "version": "1.0.0",
